@@ -1,0 +1,6 @@
+C:\Users\Girish\Documents\C++ Training\Fan_Test\bin\Debug\Fan_Test.exe.config
+C:\Users\Girish\Documents\C++ Training\Fan_Test\bin\Debug\Fan_Test.exe
+C:\Users\Girish\Documents\C++ Training\Fan_Test\bin\Debug\Fan_Test.pdb
+C:\Users\Girish\Documents\C++ Training\Fan_Test\obj\Debug\Fan_Test.exe
+C:\Users\Girish\Documents\C++ Training\Fan_Test\obj\Debug\Fan_Test.pdb
+C:\Users\Girish\Documents\C++ Training\Fan_Test\obj\Debug\Fan_Test.csprojResolveAssemblyReference.cache

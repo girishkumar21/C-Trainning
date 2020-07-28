@@ -1,0 +1,6 @@
+C:\Users\Girish\Documents\C++ Training\IRQ_Test\bin\Debug\IRQ_Test.exe.config
+C:\Users\Girish\Documents\C++ Training\IRQ_Test\obj\Debug\IRQ_Test.csprojResolveAssemblyReference.cache
+C:\Users\Girish\Documents\C++ Training\IRQ_Test\bin\Debug\IRQ_Test.exe
+C:\Users\Girish\Documents\C++ Training\IRQ_Test\bin\Debug\IRQ_Test.pdb
+C:\Users\Girish\Documents\C++ Training\IRQ_Test\obj\Debug\IRQ_Test.exe
+C:\Users\Girish\Documents\C++ Training\IRQ_Test\obj\Debug\IRQ_Test.pdb
