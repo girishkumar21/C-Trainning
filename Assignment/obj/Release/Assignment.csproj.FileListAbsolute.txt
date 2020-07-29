@@ -1,0 +1,6 @@
+C:\Users\Girish\Documents\C#\Assignment\bin\Release\Assignment.exe.config
+C:\Users\Girish\Documents\C#\Assignment\bin\Release\Assignment.exe
+C:\Users\Girish\Documents\C#\Assignment\bin\Release\Assignment.pdb
+C:\Users\Girish\Documents\C#\Assignment\obj\Release\Assignment.exe
+C:\Users\Girish\Documents\C#\Assignment\obj\Release\Assignment.pdb
+C:\Users\Girish\Documents\C#\Assignment\obj\Release\Assignment.csprojResolveAssemblyReference.cache
